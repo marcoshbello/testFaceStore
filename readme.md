@@ -1,3 +1,12 @@
+To run the Project:
+
+- $ composer install
+- $ php -r "copy('.env.example','.env');"
+- $ php artisan key:generate
+- $ php artisan serve
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
